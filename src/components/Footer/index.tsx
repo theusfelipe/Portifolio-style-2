@@ -12,7 +12,7 @@ const Footer: React.FC<Props> = ({ toggleTheme }) => {
     return (
         <ContainerFooter>
             <Text>
-                © 2023 | Gabriel Barbosa
+                © 2023 | Matheus Felipe
             </Text>
         </ContainerFooter>
     );
